@@ -38,12 +38,18 @@ School Administration — data recording, attendance tracking, salary-related re
 - Salary and deduction summary.
 - Filters for teacher ID and month.
 
-## Screenshots
-The screenshots in `images/` are redacted portfolio examples. Staff names, IDs, and individual payroll figures have been obscured to protect privacy.
 
-- `images/yearly-summary-redacted.png`
-- `images/monthly-attendance-redacted.png`
-- `images/powerbi-dashboard-redacted.png`
+## Project Screenshots
+
+### 1. Excel – Yearly Attendance & Salary Report
+![Yearly Attendance Summary](images/yearly-summary-redacted.png)
+
+### 2. Excel – Monthly Staff Attendance Tracker
+![Monthly Attendance Tracker](images/monthly-attendance-redacted.png)
+
+### 3. Power BI – Staff Attendance & Salary Dashboard
+![Power BI Dashboard](images/powerbi-dashboard-redacted.png)
+
 
 ## Privacy note
 The original workbook contains staff-related information. Do not publish the original file, identifiable staff records, personal identifiers, or individual salary details in a public repository. If adding sample data, replace real names and IDs with fictional values and remove any confidential information.
