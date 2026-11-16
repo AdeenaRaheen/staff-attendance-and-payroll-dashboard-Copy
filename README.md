@@ -22,40 +22,32 @@ School Administration — data recording, attendance tracking, salary-related re
 
 ## What the dashboards show
 ### Excel yearly summary
+### 1. Excel – Yearly Attendance & Salary Report
+![Yearly Attendance Summary](images/yearly-summary-redacted.png)
+
 - Month-wise staff attendance and salary-related fields.
 - Present, absent, leave, week-off, and paid-day counts.
 - Salary, per-day salary, deductions, and total salary fields.
 
 ### Excel monthly attendance sheet
+### 2. Excel – Monthly Staff Attendance Tracker
+![Monthly Attendance Tracker](images/monthly-attendance-redacted.png)
+
 - Daily attendance status for each staff member.
 - Month navigation across the year.
 - Visual status markers for Present, Absent, Leave, and Week Off.
 
 ### Power BI dashboard
+
+### 3. Power BI – Staff Attendance & Salary Dashboard
+![Power BI Dashboard](images/powerbi-dashboard-redacted.png)
+
 - Staff-level attendance summary.
 - Present and absent day totals.
 - Week-off and leave totals.
 - Salary and deduction summary.
 - Filters for teacher ID and month.
-
-
-## Project Screenshots
-
-### 1. Excel – Yearly Attendance & Salary Report
-![Yearly Attendance Summary](images/yearly-summary-redacted.png)
-
-### 2. Excel – Monthly Staff Attendance Tracker
-![Monthly Attendance Tracker](images/monthly-attendance-redacted.png)
-
-### 3. Power BI – Staff Attendance & Salary Dashboard
-![Power BI Dashboard](images/powerbi-dashboard-redacted.png)
-
-## Privacy note
-The original workbook contains staff-related information. Do not publish the original file, identifiable staff records, personal identifiers, or individual salary details in a public repository. If adding sample data, replace real names and IDs with fictional values and remove any confidential information.
-
-## Files to add
-The screenshots are included as portfolio evidence. The original Excel workbook and Power BI `.pbix` file were not included in this package. If you decide to publish them, first create anonymised copies with fictional staff data and check that no hidden sheets, queries, metadata, or personal information remain.
-
+  
 ## Skills demonstrated
 - Administrative data management
 - Excel data organisation and reporting
