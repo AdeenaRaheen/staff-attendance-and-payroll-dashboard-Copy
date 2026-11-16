@@ -1,0 +1,1 @@
+This package contains a README and redacted screenshot examples only. It does not contain the original Excel workbook or Power BI PBIX file. Add anonymised source files only after reviewing them for confidential data.
