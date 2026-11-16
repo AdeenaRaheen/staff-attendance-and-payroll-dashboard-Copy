@@ -42,13 +42,13 @@ School Administration — data recording, attendance tracking, salary-related re
 ## Project Screenshots
 
 ### 1. Excel – Yearly Attendance & Salary Report
-![Yearly Attendance Summary](images/yearly-summary-redacted.png)
+![Yearly Attendance Summary](C:\Users\$ BIG BANG $\Downloads\staff-attendance-payroll-github-starter\github_staff_dashboard\images)
 
 ### 2. Excel – Monthly Staff Attendance Tracker
-![Monthly Attendance Tracker](images/monthly-attendance-redacted.png)
+![Monthly Attendance Tracker](C:\Users\$ BIG BANG $\Downloads\staff-attendance-payroll-github-starter\github_staff_dashboard\images)
 
 ### 3. Power BI – Staff Attendance & Salary Dashboard
-![Power BI Dashboard](images/powerbi-dashboard-redacted.png)
+![Power BI Dashboard](C:\Users\$ BIG BANG $\Downloads\staff-attendance-payroll-github-starter\github_staff_dashboard\images)
 
 
 ## Privacy note
